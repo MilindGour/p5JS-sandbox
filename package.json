@@ -1,0 +1,24 @@
+{
+  "name": "p5js-sandbox",
+  "version": "1.0.0",
+  "description": "This project contains various programs using P5.js library.",
+  "main": "index.ts",
+  "scripts": {
+    "start": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MilindGour/p5JS-sandbox.git"
+  },
+  "author": "Milind Gour",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MilindGour/p5JS-sandbox/issues"
+  },
+  "homepage": "https://github.com/MilindGour/p5JS-sandbox#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1",
+    "typescript": "^4.9.3"
+  }
+}
